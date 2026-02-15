@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+.fleet/
+.project
+.classpath
+.settings/
+*.iml
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.log
