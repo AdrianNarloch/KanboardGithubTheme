@@ -2,6 +2,10 @@
 
 A modern Kanboard theme inspired by GitHub's latest Primer Design System.
 
+<img width="1627" height="855" alt="Screenshot 2026-02-15 at 06 26 31" src="https://github.com/user-attachments/assets/b3855d89-e972-48e8-8f63-fc8682f9e49b" />
+
+<img width="1627" height="851" alt="Screenshot 2026-02-15 at 06 27 01" src="https://github.com/user-attachments/assets/4704a5a9-d3a0-4929-b01a-8c765e789056" />
+
 ## Description
 
 This plugin provides the **Github** theme for Kanboard, featuring:
