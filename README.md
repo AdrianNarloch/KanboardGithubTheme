@@ -1,4 +1,4 @@
-# Github2026 Theme Plugin
+# Kanboard Github Theme
 
 A modern Kanboard theme inspired by GitHub's latest Primer Design System.
 
